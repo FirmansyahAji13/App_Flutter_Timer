@@ -80,7 +80,7 @@ class _TimerScreenState extends State<TimerScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Timer', textAlign: TextAlign.center),
+        title: Text('Widget Timer By Firmansyah(222410102058)', textAlign: TextAlign.center),
         centerTitle: true,
         backgroundColor: Colors.blue,
       ),
